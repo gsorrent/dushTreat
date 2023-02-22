@@ -1,0 +1,19 @@
+{
+  "Colors": {
+    "Favorite": "Blue"
+  },
+  "ConnectionStrings": {
+    "DutchConnectionString": "server=ng-mysql;user=username;password=password; SslMode = none;database=dbschema"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "a;sdlkfja; lsdkfj ;alksdfj ;alksdfj; aiefj;lskij;fldsk",
+    "Issuer": "localhost",
+    "Audience":  "localhost"
+  }
+}
